@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hey there 👋 I'm Jayaram  
 
-<!--
-**jayaram5677/jayaram5677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 CSE Student | 🤖 AI Enthusiast | 🚀 Future Software Engineer  
 
-Here are some ideas to get you started:
+I love building cool tech projects that solve real-world problems.  
+Most of my work revolves around **AI, Automation, Computer Vision, and Smart Systems**.  
+Currently exploring the world of **Agentic AI** and intelligent automation.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Tech Stack
+🐍 Python • ☕ Java • 💻 C • 🌐 HTML/CSS/JS  
+👁️ OpenCV • 🧠 Machine Learning • 🔥 Git & GitHub  
+
+---
+
+## 🚀 Featured Projects
+🔹 AI Proctoring System  
+🔹 Smart Automation Tools  
+🔹 Computer Vision Based Applications  
+
+---
+
+## 🌱 Currently Exploring
+- Agentic AI  
+- Deep Learning  
+- Full Stack Development  
+- Real-world AI integrations  
+
+---
+
+## 📈 GitHub Goals
+✨ Build impactful projects  
+✨ Contribute to open source  
+✨ Keep learning every day  
+
+---
+
+## 📫 Let's Connect
+💼 LinkedIn: your-linkedin-link  
+📧 Email: your-email@example.com  
+
+---
+
+<p align="center">
+  <i>"Turning ideas into intelligent solutions."</i> ⚡
+</p>
